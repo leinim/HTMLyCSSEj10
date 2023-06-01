@@ -1,0 +1,9 @@
+p.lead {
+    color: brown;
+}
+
+h1 {
+    text-align: center;
+    border: 2px solid;    
+    margin: 5px;
+}
